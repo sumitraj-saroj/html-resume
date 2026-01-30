@@ -28,7 +28,7 @@ No CSS or JavaScript has been used, as per the assignment requirements.
 ## 🌐 Live Demo
 You can see the live demo of the project on:
 
-- [Vercel]()
+- [Netlify](https://sumitraj-resume.netlify.app/)
 
 ## 📸 Screenshots
 ![HTML resume](/images/resume.png)
