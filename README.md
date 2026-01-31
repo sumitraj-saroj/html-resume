@@ -18,6 +18,7 @@ No CSS or JavaScript has been used, as per the assignment requirements.
 ## 📂 Project Structure
 .
 ├── index.html
+
 └── README.md
 
 ## 🚀 How to Run Locally
