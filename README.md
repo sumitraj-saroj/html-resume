@@ -15,12 +15,6 @@ No CSS or JavaScript has been used, as per the assignment requirements.
   - Contact Details
 - Clean and readable layout
 
-## 📂 Project Structure
-.
-├── index.html
-
-└── README.md
-
 ## 🚀 How to Run Locally
 1. Clone the repository:
    git clone https://github.com/sumitraj-saroj/HTML-resume.git
